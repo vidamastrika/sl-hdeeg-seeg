@@ -1,0 +1,10 @@
+mne
+mne-bids
+numpy
+scipy
+pandas
+matplotlib
+nibabel
+nilearn
+jupyterlab
+ipykernel
